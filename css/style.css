@@ -91,8 +91,8 @@ h1, h2, h3, p, ul {
 }
 
 .button_buy {
-    background-color: #FE3B3B;
-    border: 1px solid #FE3B3B;
+    background-color: #5f3bfe;
+    border: 1px solid #5f3bfe;
     color: #FFFFFF;
 }
 
@@ -294,8 +294,8 @@ h1, h2, h3, p, ul {
 }
 
 .card-detail__change.active {
-    color: #FE3B3B;
-    border-bottom: 1px solid #FE3B3B;
+    color: #5f3bfe;
+    border-bottom: 1px solid #5f3bfe;
 }
 
 .card-details__description {
@@ -323,7 +323,7 @@ h1, h2, h3, p, ul {
 
 .card-details__link-characteristics {
     display: block;
-    color: #4F80FF;
+    color: #5f3bfe;
     font-size: 18px;
     line-height: 21px;
     margin-bottom: 60px;
